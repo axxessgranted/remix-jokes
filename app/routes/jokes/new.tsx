@@ -1,4 +1,4 @@
-const JokesNewRoute = () => {
+const NewJokeRoute = () => {
   return (
     <div>
       <p>Add your own utterly hilarious joke</p>
@@ -23,4 +23,4 @@ const JokesNewRoute = () => {
   );
 };
 
-export default JokesNewRoute;
+export default NewJokeRoute;
